@@ -186,7 +186,7 @@ include "inc/header_start.php";
                 </div>
             </div>
         </div>
-        
+                
         <!-- Блок преимуществ -->
         <div class="card advantages-card">
             <h2 class="card-title">⭐ Наши преимущества</h2>
