@@ -4,6 +4,7 @@ A custom-built **Enterprise Resource Planning (ERP)** and **Learning Management 
 
 This project was developed in a collaborative environment, where I focused on **Frontend Engineering**, UI/UX architecture, and integration with the PHP-based service layer.
 
+---
 ### -- Key Features --
 * **Role-Based Access Control (RBAC):** Distinct interfaces and permissions for Students and Administrators.
 * **Administrative Dashboard:** Full-cycle management of clients, services, and internal inventory.
@@ -41,6 +42,7 @@ The system follows a modular structure to ensure separation of concerns between 
 
 • **Version Control:** Git (Collaborative workflow with PRs and role-based commits).
 
+---
 ### -- Professional Context --
 
 This repository serves as a showcase of my ability to:
