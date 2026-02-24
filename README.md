@@ -13,7 +13,7 @@ This project was developed in a collaborative environment, where I focused on **
 ---
 ### -- Technical Architecture --
 The system follows a modular structure to ensure separation of concerns between the presentation layer and business logic.
-
+ 
 ```text
 ├── admin/                  # Centralized Administration Hub
 │   ├── controllers/        # Core business logic handlers
